@@ -1,4 +1,8 @@
-﻿using System;
+/*
+Aranzado, Martin Jonas A.
+Quino, Bryan E.
+*/
+using System;
 public class Book
 {
     private readonly string? title;
